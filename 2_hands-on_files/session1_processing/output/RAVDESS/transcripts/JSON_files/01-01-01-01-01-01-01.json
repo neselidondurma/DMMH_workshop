@@ -1,0 +1,98 @@
+{
+  "segments": [
+    {
+      "start": 1.03,
+      "end": 2.196,
+      "text": " Kids are talking by the door.",
+      "words": [
+        {
+          "word": "Kids",
+          "start": 1.03,
+          "end": 1.231,
+          "score": 0.875,
+          "speaker": "speaker0"
+        },
+        {
+          "word": "are",
+          "start": 1.271,
+          "end": 1.352,
+          "score": 0.833,
+          "speaker": "speaker0"
+        },
+        {
+          "word": "talking",
+          "start": 1.392,
+          "end": 1.714,
+          "score": 0.817,
+          "speaker": "speaker0"
+        },
+        {
+          "word": "by",
+          "start": 1.754,
+          "end": 1.874,
+          "score": 0.834,
+          "speaker": "speaker0"
+        },
+        {
+          "word": "the",
+          "start": 1.915,
+          "end": 1.995,
+          "score": 0.885,
+          "speaker": "speaker0"
+        },
+        {
+          "word": "door.",
+          "start": 2.015,
+          "end": 2.196,
+          "score": 0.902,
+          "speaker": "speaker0"
+        }
+      ],
+      "speaker": "speaker0"
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Kids",
+      "start": 1.03,
+      "end": 1.231,
+      "score": 0.875,
+      "speaker": "speaker0"
+    },
+    {
+      "word": "are",
+      "start": 1.271,
+      "end": 1.352,
+      "score": 0.833,
+      "speaker": "speaker0"
+    },
+    {
+      "word": "talking",
+      "start": 1.392,
+      "end": 1.714,
+      "score": 0.817,
+      "speaker": "speaker0"
+    },
+    {
+      "word": "by",
+      "start": 1.754,
+      "end": 1.874,
+      "score": 0.834,
+      "speaker": "speaker0"
+    },
+    {
+      "word": "the",
+      "start": 1.915,
+      "end": 1.995,
+      "score": 0.885,
+      "speaker": "speaker0"
+    },
+    {
+      "word": "door.",
+      "start": 2.015,
+      "end": 2.196,
+      "score": 0.902,
+      "speaker": "speaker0"
+    }
+  ]
+}
